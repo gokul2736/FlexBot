@@ -15,25 +15,21 @@ Unlike other bots, FlexBot stays **dormant** until you need it, injects a sleek 
 * **Stealth Mode:** Minimizes into a tiny ⚡ bubble to keep your workspace clear.
 * **Zero-Inference:** No data collection. Everything runs locally in your browser.
 
-## 🛠️ Installation
+## 📥 How to Install (30 Seconds)
+FlexBot is a developer tool, so you install it manually. It’s safe and takes less than a minute.
 
-Since this is a developer tool, you will install it via **"Developer Mode"** in Chrome:
+**Step 1: Get the Code**
+1.  Scroll to the top of this page.
+2.  Click the green **<> Code** button.
+3.  Select **Download ZIP**.
+4.  **Important:** Unzip (extract) the downloaded file into a folder on your computer.
 
-1.  **Clone or Download** this repository to a folder on your computer.
-2.  Open Chrome and navigate to `chrome://extensions/`.
-3.  Toggle **Developer mode** (top right switch).
-4.  Click **Load unpacked**.
-5.  Select the `FlexBot` folder.
-
-## 🎮 How to Use
-
-1.  **Activate:** Click the ⚡ / **Puzzle icon** in your Chrome toolbar. The panel will appear.
-2.  **Configure:**
-    * **Target Selector:** Enter the `ID` (e.g., `#next-btn`) or `Class` (e.g., `.submit-button`) of the element you want to click.
-    * **Trigger Key:** Enter the key you want to use (e.g., `n`, `Enter`, `space`).
-3.  **Engage:** Click **ACTIVATE**.
-4.  **Grind:** Press your hotkey to click the element instantly.
-5.  **Exit:** Click the **X** button on the panel to completely unload the bot from the page.
+**Step 2: Load into Chrome**
+1.  Open Google Chrome.
+2.  Type `chrome://extensions/` in the address bar and hit Enter.
+3.  Turn on **Developer mode** (Top right corner switch). 🔵
+4.  Click the **Load unpacked** button (Top left).
+5.  Select the folder you just unzipped (`FlexBot-main`).
 
 ## 💡 Pro Tips
 
@@ -41,9 +37,4 @@ Since this is a developer tool, you will install it via **"Developer Mode"** in 
 * **Classes:** If there is no ID, use the class name with a dot (e.g., `.btn-primary`).
 * **Auto-Fix:** If you forget the `#` for an ID, FlexBot's smart logic will attempt to add it for you automatically.
 
-## 🤝 Contributing
-
-This is a research-grade tool. Feel free to fork, modify, and submit Pull Requests if you want to add features like Macro Recording or Multi-Step workflows.
-
-
-
+🎉 **That's it!** You will see the FlexBot logo appear in your browser toolbar.
