@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "FlexBot Pro",
+  "version": "5.0",
+  "description": "On-Demand Automation Overlay",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open FlexBot"
+  }
+}
