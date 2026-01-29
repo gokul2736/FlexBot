@@ -31,10 +31,10 @@ FlexBot is a developer tool, so you install it manually. It’s safe and takes l
 4.  Click the **Load unpacked** button (Top left).
 5.  Select the folder you just unzipped (`FlexBot-main`).
 
+🎉 **That's it!** You will see the FlexBot logo appear in your browser toolbar.
+
 ## 💡 Pro Tips
 
 * **Finding Selectors:** Right-click the button you want to automate, select **Inspect**, and look for `id="something"`. Enter `#something` in FlexBot.
 * **Classes:** If there is no ID, use the class name with a dot (e.g., `.btn-primary`).
 * **Auto-Fix:** If you forget the `#` for an ID, FlexBot's smart logic will attempt to add it for you automatically.
-
-🎉 **That's it!** You will see the FlexBot logo appear in your browser toolbar.
